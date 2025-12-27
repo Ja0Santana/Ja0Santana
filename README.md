@@ -21,7 +21,7 @@ Sou um estudante do curso de Sistemas de Informação no Instituto Federal de Se
 
 - **Atualmente trabalhando em:** Projetos de gerenciamento e persistência de dados (Java Puro).
 - **Atualmente estudando:** Java Stream API, Manipulação de Arquivos e SOLID.
-- **Objetivo:** Me tornar um Especialista em Backend.
+- **Objetivo:** Me tornar desenvolvedor Full Stack .
 
 ---
 
