@@ -1,6 +1,10 @@
 <h1 align="center">Olá Mundo, meu nome é João Paulo :)</h1>
 
 <p align="center">
+  <a href="README_en.md">🇺🇸 English Version</a>
+</p>
+
+<p align="center">
   <em>Desenvolvedor Backend em formação | Java | Arquitetura de Software</em>
 </p>
 
