@@ -44,8 +44,11 @@ I am an Information Systems student at the Federal Institute of Sergipe, focused
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ja0Santana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache=1"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ja0Santana&layout=compact&theme=dracula&cache=1"/>
   </a>
+</div>
+
+<div align="center">
+  <img height="300em"src="https://github-readme-activity-graph.vercel.app/graph?username=Ja0Santana&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
