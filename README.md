@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-I am an Information Systems student at the Federal Institute of Sergipe, focused on **Java**. I love transforming complex problems into organized, clean, and efficient code. Currently, I am deepening my knowledge in **Object-Oriented Programming** and **Data Structures**.
+I am an Information Systems student at the Federal Institute of Sergipe in Brazil, focused on **Java**. I love transforming complex problems into organized, clean, and efficient code. Currently, I am deepening my knowledge in **Object-Oriented Programming** and **Data Structures**.
 
 - **Currently working on:** Management and data persistence projects (Pure Java).
 - **Currently studying:** File Manipulation, and SOLID.
