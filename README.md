@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, my name is João Paulo :)</h1>
+<h1 align="center">Hello World, i'm João Paulo :)</h1>
 
 <p align="center">
   <a href="README.md">🇧🇷 Versão em Português</a>
