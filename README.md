@@ -35,7 +35,7 @@ Sou um estudante do curso de Sistemas de Informação no Instituto Federal de Se
 </div>
 
 ---
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -47,9 +47,3 @@ Sou um estudante do curso de Sistemas de Informação no Instituto Federal de Se
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ja0Santana&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-<p align="center">
-  <i>"A simplicidade é o último grau de sofisticação."</i>
-</p>
