@@ -19,9 +19,9 @@
 
 Sou um estudante do curso de Sistemas de Informação no Instituto Federal de Sergipe, com foco na linguagem **Java**. Gosto de transformar problemas complexos em código organizado, limpo e eficiente. Atualmente estou aprofundando meus conhecimentos em **Orientação a Objetos** e **Estruturas de Dados**.
 
-- 🔭 **Atualmente trabalhando em:** Projetos de gerenciamento e persistência de dados (Java Puro).
-- 🌱 **Atualmente estudando:** Java Stream API, Manipulação de Arquivos e SOLID.
-- 🎯 **Objetivo:** Me tornar um Especialista em Backend.
+- **Atualmente trabalhando em:** Projetos de gerenciamento e persistência de dados (Java Puro).
+- **Atualmente estudando:** Java Stream API, Manipulação de Arquivos e SOLID.
+- **Objetivo:** Me tornar um Especialista em Backend.
 
 ---
 
@@ -35,14 +35,17 @@ Sou um estudante do curso de Sistemas de Informação no Instituto Federal de Se
 </div>
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ja0Santana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ja0Santana&layout=compact&theme=dracula"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ja0Santana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache=1"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ja0Santana&layout=compact&theme=dracula&cache=1"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ja0Santana&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
