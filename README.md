@@ -50,13 +50,3 @@ I am an Information Systems student at the Federal Institute of Sergipe in Brazi
 <div align="center">
   <img height="300em"src="https://github-readme-activity-graph.vercel.app/graph?username=Ja0Santana&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="Activity Graph" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ja0Santana&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i>
-</p>
