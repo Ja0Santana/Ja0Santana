@@ -1,11 +1,11 @@
 <h1 align="center">Hello World, i'm João Paulo :)</h1>
 
 <p align="center">
-  <a href="README.md">🇧🇷 Versão em Português</a>
+  <a href="README_pt_br.md">🇧🇷 Versão em Português</a>
 </p>
 
 <p align="center">
-  <em>Backend Developer in training | Java | Software Architecture</em>
+  <em>Backend Developer | Java | Spring | PostgreSQL | Software Architecture</em>
 </p>
 
 <p align="center">
@@ -21,16 +21,27 @@
 
 ### 👨‍💻 About Me
 
-I am an Information Systems student at the Federal Institute of Sergipe in Brazil, focused on **Java**. I like to transforming complex problems into organized, clean, and efficient code.
+I am an Information Systems student at the Federal Institute of Sergipe in Brazil, focused on **Java**. Currently, I am sharpening my skills in the **Spring ecosystem**. I like transforming complex problems into organized, clean, and efficient code.
 
 ---
 
 ### 🛠️ Technologies & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,idea,md,github&theme=dark" />
-  </a>
+
+**Back-end**<br>
+<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
+
+<br><br>
+
+**Database**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
+
+<br><br>
+
+**Tools & Others**<br>
+<img src="https://skillicons.dev/icons?i=git,github,idea,md&theme=dark" />
+
 </div>
 
 ---
