@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>Backend Developer | Java | Spring | PostgreSQL | Software Architecture</em>
+  <em>Backend Developer | Java | Spring | PostgreSQL | MongoDB | Software Architecture | SOLID</em>
 </p>
 
 <p align="center">
