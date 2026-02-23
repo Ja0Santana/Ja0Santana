@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, i'm João Paulo :)</h1>
+<h1 align="center">Hello World :)</h1>
 
 <p align="center">
   <a href="README_pt_br.md">🇧🇷 Versão em Português</a>
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-I am focused on **Java** and currently sharpening my skills in the **Spring ecosystem**. I like transforming complex problems into organized, clean, and efficient code.
+Backend Developer focused on **Java** and the **Spring ecosystem**, dedicated to strengthening my knowledge in scalable architectures and **SOLID** principles. I strive to apply development best practices to build efficient solutions, leveraging tools like **Docker**, **PostgreSQL**, and **SonarQube** to ensure software quality.
 
 ---
 
