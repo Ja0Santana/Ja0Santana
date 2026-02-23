@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-I am an Information Systems student at the Federal Institute of Sergipe in Brazil, focused on **Java**. Currently, I am sharpening my skills in the **Spring ecosystem**. I like transforming complex problems into organized, clean, and efficient code.
+I am focused on **Java** and currently sharpening my skills in the **Spring ecosystem**. I like transforming complex problems into organized, clean, and efficient code.
 
 ---
 
@@ -40,7 +40,9 @@ I am an Information Systems student at the Federal Institute of Sergipe in Brazi
 <br><br>
 
 **Tools & Others**<br>
-<img src="https://skillicons.dev/icons?i=git,github,idea,md&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,idea,md&theme=dark" />
+<br>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
 
 </div>
 
@@ -55,7 +57,7 @@ I am an Information Systems student at the Federal Institute of Sergipe in Brazi
 </div>
 
 <div align="center">
-  <img height="300em"src="https://github-readme-activity-graph.vercel.app/graph?username=Ja0Santana&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="Activity Graph" />
+  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ja0Santana&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ### 🐍 My contributions
