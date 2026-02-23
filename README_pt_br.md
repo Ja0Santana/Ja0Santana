@@ -21,7 +21,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou focado em **Java** e atualmente estou aprimorando minhas habilidades no **ecossistema Spring**. Gosto de transformar problemas complexos em código organizado, limpo e eficiente.
+Desenvolvedor Backend focado em **Java** e no ecossistema **Spring**, dedicando-me a fortalecer conhecimentos em arquiteturas escaláveis e princípios **SOLID**. Busco aplicar as melhores práticas de desenvolvimento para criar soluções eficientes, utilizando ferramentas como **Docker**, **PostgreSQL** e **SonarQube** para garantir a qualidade do software.
 
 ---
 
@@ -87,7 +87,7 @@ Sou focado em **Java** e atualmente estou aprimorando minhas habilidades no **ec
 
 ### 👨‍💻 Sobre Mim
 
-Sou focado em **Java** e atualmente estou aprimorando minhas habilidades no **ecossistema Spring**. Gosto de transformar problemas complexos em código organizado, limpo e eficiente.
+Desenvolvedor Backend focado em **Java** e no ecossistema **Spring**, dedicando-me a fortalecer conhecimentos em arquiteturas escaláveis e princípios **SOLID**. Busco aplicar as melhores práticas de desenvolvimento para criar soluções eficientes, utilizando ferramentas como **Docker**, **PostgreSQL** e **SonarQube** para garantir a qualidade do software.
 
 ---
 
