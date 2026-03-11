@@ -34,6 +34,11 @@ Backend Developer focused on **Java** and the **Spring ecosystem**, dedicated to
 
 <br><br>
 
+**Front-end**<br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js&theme=dark" />
+
+<br><br>
+
 **Database**<br>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
 
