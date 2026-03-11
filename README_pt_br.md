@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>Desenvolvedor Backend | Java | Spring | PostgreSQL | MongoDB | Arquitetura de Software | SOLID</em>
+  <em>Desenvolvedor Backend | Fullstack | Front-End | Java | Spring | PostgreSQL | MongoDB | Arquitetura de Software | SOLID</em>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor Backend focado em **Java** e no ecossistema **Spring**, dedicando-me a fortalecer conhecimentos em arquiteturas escaláveis e princípios **SOLID**. Busco aplicar as melhores práticas de desenvolvimento para criar soluções eficientes, utilizando ferramentas como **Docker**, **PostgreSQL** e **SonarQube** para garantir a qualidade do software.
+Desenvolvedor Fullstack focado no back-end com **Java** no ecossistema **Spring**, dedicando-me a fortalecer conhecimentos em arquiteturas escaláveis e princípios **SOLID**. Busco aplicar as melhores práticas de desenvolvimento para criar soluções eficientes, utilizando ferramentas como **Docker**, **PostgreSQL** e **SonarQube** para garantir a qualidade do software.
 
 ---
 
