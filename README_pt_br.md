@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>Desenvolvedor Backend | Fullstack | Front-End | Java | Spring | PostgreSQL | MongoDB | Arquitetura de Software | SOLID</em>
+  <em>Desenvolvedor Backend | Fullstack | Front-End | Java | Spring | PostgreSQL | MongoDB | Arquitetura de Software | SOLID | Computação em Nuvem | Azure</em>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor Fullstack focado no back-end com **Java** no ecossistema **Spring**, dedicando-me a fortalecer conhecimentos em arquiteturas escaláveis e princípios **SOLID**. Busco aplicar as melhores práticas de desenvolvimento para criar soluções eficientes, utilizando ferramentas como **Docker**, **PostgreSQL** e **SonarQube** para garantir a qualidade do software.
+Desenvolvedor Fullstack focado no Back-end com **Java** no ecossistema **Spring**, dedicado a construir arquiteturas escaláveis e aplicar os princípios **SOLID**. Possuo experiência no deploy de aplicações reais no **Azure App Service** e gerenciamento de bancos de dados em nuvem com **Supabase**. Busco sempre aplicar as melhores práticas de desenvolvimento, utilizando ferramentas como **Docker**, **PostgreSQL** e **SonarQube** para garantir a qualidade e a confiabilidade do software.
 
 ---
 
@@ -34,8 +34,13 @@ Desenvolvedor Fullstack focado no back-end com **Java** no ecossistema **Spring*
 
 <br><br>
 
+**Cloud & DevOps**<br>
+<img src="https://skillicons.dev/icons?i=azure,supabase,docker&theme=dark" />
+
+<br><br>
+
 **Front-end**<br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&theme=dark" />
 
 <br><br>
 
@@ -45,7 +50,7 @@ Desenvolvedor Fullstack focado no back-end com **Java** no ecossistema **Spring*
 <br><br>
 
 **Ferramentas & Outros**<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,idea,md&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea,md&theme=dark" />
 <br>
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
 
