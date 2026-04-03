@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>Backend Developer | Fullstack | Front-End | Java | Spring | PostgreSQL | MongoDB | Software Architecture | SOLID</em>
+  <em>Backend Developer | Fullstack | Front-End | Java | Spring | PostgreSQL | MongoDB | Software Architecture | SOLID | Cloud Computing | Azure</em>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-Fullstack Developer focused in Backend with **Java** and the **Spring ecosystem**, dedicated to strengthening my knowledge in scalable architectures and **SOLID** principles. I strive to apply development best practices to build efficient solutions, leveraging tools like **Docker**, **PostgreSQL**, and **SonarQube** to ensure software quality.
+Fullstack Developer focused in Backend with **Java** and the **Spring ecosystem**, dedicated to building scalable architectures using **SOLID** principles. I have experience deploying production-ready applications on **Azure App Service** and managing cloud databases with **Supabase**. I strive to apply development best practices, leveraging tools like **Docker**, **PostgreSQL**, and **SonarQube** to ensure software quality and reliability.
 
 ---
 
@@ -34,8 +34,13 @@ Fullstack Developer focused in Backend with **Java** and the **Spring ecosystem*
 
 <br><br>
 
+**Cloud & DevOps**<br>
+<img src="https://skillicons.dev/icons?i=azure,supabase,docker&theme=dark" />
+
+<br><br>
+
 **Front-end**<br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&theme=dark" />
 
 <br><br>
 
@@ -45,7 +50,7 @@ Fullstack Developer focused in Backend with **Java** and the **Spring ecosystem*
 <br><br>
 
 **Tools & Others**<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,idea,md&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea,md&theme=dark" />
 <br>
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
 
