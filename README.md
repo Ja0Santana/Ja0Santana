@@ -61,13 +61,7 @@ Fullstack Developer focused in Backend with **Java** and the **Spring ecosystem*
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ja0Santana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache=1"/>
-  </a>
-</div>
-
-<div align="center">
-  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ja0Santana&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="./github-metrics.svg" alt="GitHub Stats and Activity" />
 </div>
 
 ### 🐍 My contributions
